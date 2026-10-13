@@ -2,6 +2,10 @@
 
 Верстка адаптивной карточки товара «Ананасовый улун» с интерактивным переключением фасовки в рамках тестового задания на позицию Frontend-верстальщика.
 
+## Демо
+
+- **Ссылка на GitHub Pages:** https://boikoanastasia.github.io/Teaboom-test/
+
 ## Технологический стек
 
 - **HTML5:** Семантическая разметка (`<header>`, `<main>`, `<section>`, `<ul>`, `<footer>`).
@@ -23,7 +27,7 @@
 
 1. Скачайте архив или клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/BoikoAnastasia/Teaboom-test.git
    ```
 2. Откройте файл `index.html` в любом современном браузере двойным щелчком мыши.
 
